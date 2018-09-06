@@ -15,7 +15,8 @@
     <h1>I'm Hua Yuanpeng</h1>
     <h1>Welcome Here!!</h1>
     <dev>
-        The Zen of Python, by Tim Peters
+        
+        <p>The Zen of Python, by Tim Peters</p>
 
         Beautiful is better than ugly.
         Explicit is better than implicit.
