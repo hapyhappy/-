@@ -16,7 +16,7 @@
     <h1>Welcome Here!!</h1>
     <dev>
         
-        <p>The Zen of Python, by Tim Peters</p>
+        <p front-size="20">The Zen of Python, by Tim Peters</p>
 
         <p>Beautiful is better than ugly.</p>
         <p>Explicit is better than implicit.</p>
@@ -37,6 +37,4 @@
         <p>If the implementation is hard to explain, it's a bad idea.</p>
         <p>If the implementation is easy to explain, it may be a good idea.</p>
         <p>Namespaces are one honking great idea -- let's do more of those!</p>
-    </dev>
-</body>
-</html>
+
