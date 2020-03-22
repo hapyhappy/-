@@ -6,7 +6,7 @@
         h1{
             text-align: center;
             font-size: 50px;
-            color:blue;
+            color:red;
         }
     </style>
 </head>
@@ -15,5 +15,5 @@
     <h1>I'm Hua Yuanpeng</h1>
     <h1>Welcome Here!!</h1>
     
-    <a href="http://huahapy.com/wx">visit my blog-site</a>
+    <a href="http://www.huahapy.com/">visit my blog-site</a>
     
